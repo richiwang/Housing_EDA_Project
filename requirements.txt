@@ -9,5 +9,5 @@ python-dotenv==0.19.0
 psycopg2-binary
 SQLAlchemy==1.4.25
 missingno==0.5.1
-folium
 plotly==5.5.0
+openpyxl
