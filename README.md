@@ -2,6 +2,8 @@
 
 This a first draft for exploratory data analysis about the housing market in King County, WA USA. The initial data set eda.csv can and should be supplemented with additional data that can be drawn from the official King County Website or similar sources. 
 
+The main notebook to work with is named "EDA.ipynb"
+
 In order to install the environment you can use the following commands:
 
 ```
